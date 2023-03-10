@@ -1,0 +1,33 @@
+.footer__nav{
+  display: flex;
+  column-gap: 343px;
+  align-items: center;
+}
+
+.footer__first{
+  padding: 12px 0 13px;
+  display: flex;
+  align-items: center;
+  column-gap: 40px;
+}
+
+.footer__first-title{
+  font-family: 'Inter',sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  color: #191919;
+  padding-bottom: 22px;
+}
+
+
+.footer__first-text{
+  font-family: 'SF Pro Text', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #191919;
+  padding-bottom: 13px;
+}

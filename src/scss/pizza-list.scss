@@ -1,0 +1,41 @@
+.pizza-list{
+  padding-bottom: 40px;
+  &__title{
+    margin-bottom: 30px;
+  }
+  &__card{
+    &-block{
+      height: 300px;
+      position: relative;
+      transition: 1s;
+      img{
+        width: 100%;
+        height: 65%;
+        object-fit: cover;
+        border-radius: 15px;
+      }
+      &:hover{
+        transition: .5s;
+        .pizza-list__card-info{
+          display: flex;
+        }
+
+      }
+    }
+    &-info{
+      color: white;
+      height: 100%;
+      display: none;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 30px;
+      position: absolute;
+      border-radius: 30px;
+      bottom:0;
+      background: #36353e80;
+    }
+
+
+  }
+
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28a7ed38-6698-4d76-ab22-2ce955c16b80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I9Ic5OPpJ9OLvegPonKi3T4QxH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/Pizza" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\assets\Pizza" />
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\assets\Begin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\utils" />
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\pages\Menu" />
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\pages\About" />
+      <recent name="C:\Users\user\OneDrive\Рабочий стол\finproject\src\pages\Home" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a7ed38-6698-4d76-ab22-2ce955c16b80" name="Default Changelist" comment="" />
+      <created>1669587448819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669587448819</updated>
+      <workItem from="1669587450413" duration="2212000" />
+      <workItem from="1669726249854" duration="703000" />
+      <workItem from="1669757228837" duration="7745000" />
+      <workItem from="1669889358945" duration="534000" />
+      <workItem from="1669889904570" duration="778000" />
+      <workItem from="1669890834003" duration="3104000" />
+      <workItem from="1669928923766" duration="2410000" />
+      <workItem from="1669934212181" duration="2239000" />
+      <workItem from="1669989821226" duration="11084000" />
+      <workItem from="1670006038882" duration="1597000" />
+      <workItem from="1670021157234" duration="3472000" />
+      <workItem from="1670026299553" duration="1095000" />
+      <workItem from="1670064319384" duration="1890000" />
+      <workItem from="1670091388915" duration="11055000" />
+      <workItem from="1670104869400" duration="10263000" />
+      <workItem from="1670148867250" duration="4179000" />
+      <workItem from="1670790785780" duration="1038000" />
+      <workItem from="1670802639354" duration="6439000" />
+      <workItem from="1676889778452" duration="3000" />
+      <workItem from="1676912605062" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670001259068">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="742" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1670001259068" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1670111354676">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1670111354676" />
+  </component>
+</project>
